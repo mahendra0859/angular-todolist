@@ -1,0 +1,15 @@
+.form-div {
+  margin: 20px;
+}
+form {
+  display: inline;
+}
+
+.form input[type="text"] {
+  flex: 10;
+  padding: 5px;
+}
+
+.form input[type="submit"] {
+  flex: 2;
+}
